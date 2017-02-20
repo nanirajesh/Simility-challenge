@@ -1,0 +1,8 @@
+#movie_item{
+    height:250px;
+    width:400px;
+    border: 1px solid red;
+    margin-left:50px;
+    margin-top:20px;
+    border-radius:20px;
+}
